@@ -1,0 +1,106 @@
+{
+  "devs": [
+  {
+    "name": "Abudi Mutamba",
+    "gender": "Male",
+    "cv": "https://cutt.ly/LGUJStg",
+    "portifolio": "https://cutt.ly/HGUIZoZ",
+    "stacks": "MERN",
+    "techskills":"WordPress, Figma, JavaScript, ReactJS, NodeJS, Express, MongoDB",
+    "alumnus": "yes"
+  },
+  {
+   "name": "Charles Kasasira",
+   "cv": "https://cutt.ly/CGUBEgQ",
+   "gender": "Male",
+    "portfolio": "https://kasasira.pages.dev",
+   "stacks": "MERN",
+    "techskills":"JavaScript, ReactJs, NodeJs, Express, MongoDB, Figma",
+    "alumnus":"yes"
+  },
+  {
+    "name": "Joanita Nakityo",
+    "gender": "Female",
+    "cv": "https://cutt.ly/nGU9lYm",
+    "portifolio": "https://cutt.ly/kGU9U4U",
+    "stacks": "MERN",
+    "techskills":"Figma, JavaScript, ReactJS, NodeJS, Express, MongoDB, Python, C ",
+    "alumnus": "yes"
+  },
+  {
+    "name": "David Derrick Anyuru",
+    "gender": "Male",
+    "cv": "https://cutt.ly/WGU174V",
+    "portifolio": "https://anyuru.github.io/",
+    "stacks": "MERN",
+    "techskills":"Mongo DB, Express, ReactJS, NodeJS, JavaScript, Python, Figma, React Native, Serveless functions",
+    "alumnus": "yes"
+  },
+  {
+    "name": "Mujjuni Brian",
+    "gender": "Male",
+    "cv": "https://drive.google.com/file/d/1ahBRoCBXIB3ZtdAwLcpNRBfqYeT3o0wg/view?usp=sharing",
+    "portifolio":"https://drive.google.com/file/d/1ahBRoCBXIB3ZtdAwLcpNRBfqYeT3o0wg/view?usp=sharing",
+    "stacks": "Django, Laravel, MERN",
+    "techskills":"Python, Django, Laravel, Mongo DB ,Flutter, Postgresql, MSSQL, Firebase, Express, Node js, React js, Bootstrap, CSS, Nginx, Tailwind",
+    "alumnus": "No"
+  },
+  {
+    "name": "Bukenya Kizza Roland",
+    "gender": "Male",
+    "cv": "https://matching.turing.com/developer-resume/ec500686cb1e6b9299dc08f368c573c04c93fac4e2df79",
+    "portifolio": "https://matching.turing.com/developer-resume/ec500686cb1e6b9299dc08f368c573c04c93fac4e2df79",
+    "stacks": "MERN,",
+    "techskills":" Figma, JavaScript, ReactJS, NodeJS, Express, MongoDB , React Native ,Redux , Context Api , Firebase ,Git, Typescript , Next js , Graghql , Tailwind CSS , Styled components",
+    "almuni": "No"
+  },
+   {
+    "name": "Wafula Allan Isaac",
+    "gender": "Male",
+    "cv": "https://drive.google.com/file/d/19P3ycNPqh-Zugilc7SRfEyzL96QAdBxU/view?usp=sharing",
+    "portifolio": "https://wafula--allan-isaac.web.app/",
+    "stacks": "MERN,",
+    "techskills":" Figma, JavaScript, ReactJS, NodeJS, Express, MongoDB , React Native , Next js, Tailwind CSS , Styled components,Firebase",
+    "alumnus": "No"
+  },
+  {
+    "name": "Bukirwa Halimah",
+    "gender": "Female",
+    "cv": "https://cutt.ly/qGI2Ik1",
+    "techskills":"Python, C, GCP, Azure, SQL",
+    "alumnus": "No"
+  },
+  {
+    "name": "Okello Elijah",
+    "gender": "Male",
+    "stacks": "MERN, Django",
+    "cv": "https://cutt.ly/ZGIONcd",
+    "techskills":"Python, JavaScript, React, Django, Mongo DB, Express, NodeJS, Firebase, MySQL, Postgresql",
+    "alumnus": "No"
+  },
+  {
+    "name": "Mwesigwa Joshua",
+    "gender": "Male",
+    "cv": "https://matching.turing.com/developer-resume-preview/c708515048cb7e9d3a2997ee307f6f00b39381950d8a97",
+    "portifolio": "https://matching.turing.com/developer-resume-preview/c708515048cb7e9d3a2997ee307f6f00b39381950d8a97",
+    "stacks": "MERN,",
+    "techskills":" Figma, JavaScript, ReactJS, Django, Express, Nodejs ,  MongoDB , React Native , Redux",
+    "almuni": "No"
+  },
+  {
+    "name": "Kalenda Racheal",
+    "gender": "Female",
+    "cv": "https://cutt.ly/bGI5kSg",
+    "techskills":"React,JavaScript, NextJS, C, C#, Figma ",
+    "alumnus": "No"
+  },
+  {
+    "name": "Muwonge Lawrence",
+    "gender": "Male",
+    "cv": "https://drive.google.com/file/d/1ZwM6hTNRIUGxJmvh4zmY0_FO-QLcr7VD/view?usp=sharing",
+    "portifolio": "https://ml-resume.vercel.app/",
+    "stacks": "MERN,",
+    "techskills":"JavaScript, ReactJS, NodeJS, Express, MongoDB , React Native , Python , Next js  , Tailwind CSS , Styled components",
+    "alumnus": "No"
+  }
+]}
