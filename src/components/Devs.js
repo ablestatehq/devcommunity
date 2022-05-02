@@ -12,7 +12,7 @@ const Devs = () => {
 
     const fetchDevs = async () => {
       const response = await fetch(
-        "https://theablestate.github.io/edu/our-community-devs.json"
+        "https://theablestate.github.io/devcommunity/devs.json"
       );
       const data = await response.json();
       return data.devs;
