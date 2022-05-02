@@ -1,5 +1,4 @@
 import React from "react";
-
 export const Loader = ({ title, body }) => {
   return (
     <div className="flex flex-col items-center justify-center h-screen">
@@ -10,3 +9,5 @@ export const Loader = ({ title, body }) => {
     </div>
   );
 };
+
+export default Loader;

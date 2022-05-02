@@ -23,18 +23,6 @@ function PublicNav() {
       <div className="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
         <div className="text-sm lg:flex-grow">
           <Link
-            to="/"
-            className="block mt-4 dark:text-gray-100 lg:inline-block lg:mt-0 text-black hover:text-orange-400 mr-4"
-          >
-            Home
-          </Link>
-          <Link
-            to="/second-cohort-fullstack-outline"
-            className="block mt-4 dark:text-gray-100 lg:inline-block lg:mt-0 text-black hover:text-orange-400 mr-4"
-          >
-            Season 2 Outline
-          </Link>
-          <Link
             to="/devcommunity"
             className="block mt-4 dark:text-gray-100 lg:inline-block lg:mt-0 text-black hover:text-orange-400 mr-4"
           >
