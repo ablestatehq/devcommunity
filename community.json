@@ -119,7 +119,16 @@
           "portifolio": "https://www.linkedin.com/in/moureen-caroline-8072bb75/",
           "techskills": "Python, Figma, SQL, Flask, Java, JavaScript, GCP, Azure",
           "alumnus": "No"
+      },
+      {
+          "name": "Nyayic Fanny",
+          "gender": "Female",
+          "cv": "https://fannyn.com/",
+          "portifolio": "https://ug.linkedin.com/in/nyayic-fanny-bb700a150",
+          "techskills": "HTML, CSS, Javascript, VueJS, ReactJS, NodeJS, Wordpress, Drupal",
+          "alumnus": "No"
       }
+   
 
   ]
 }
