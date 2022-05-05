@@ -127,6 +127,14 @@
           "portifolio": "https://ug.linkedin.com/in/nyayic-fanny-bb700a150",
           "techskills": "HTML, CSS, Javascript, VueJS, ReactJS, NodeJS, Wordpress, Drupal",
           "alumnus": "No"
+      },
+    
+     {
+          "name": "Pius Tumwebaze",
+          "gender": "Male",
+          "cv": "https://docs.google.com/document/d/1X6ndDUXPb0XSKhJoifOrwAV5kdjTeRsoYq9MQzQkE-8/edit",
+          "techskills": "HTML, CSS, Javascript, python, ReactJS, Django, Figma, tailwindcss",
+          "alumnus": "No"
       }
    
 
