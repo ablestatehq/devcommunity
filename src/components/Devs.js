@@ -38,9 +38,9 @@ const Devs = () => {
 		if (LOWER_TERM?.length > 0 && LOWER_TERM !== "") {
 			const results = devs.filter(
 				(dev) =>
-					dev?.stacks.toLowerCase().includes(LOWER_TERM) ||
-					dev?.name.toLowerCase().includes(LOWER_TERM) ||
-					dev?.techskills.toLowerCase().includes(LOWER_TERM)
+					dev?.stacks?.toLowerCase().includes(LOWER_TERM) ||
+					dev?.name?.toLowerCase().includes(LOWER_TERM) ||
+					dev?.techskills?.toLowerCase().includes(LOWER_TERM)
 			);
 			if (results.length) setDevs(results);
 
