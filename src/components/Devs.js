@@ -46,8 +46,6 @@ const Devs = () => {
 					dev?.techskills?.toLowerCase().includes(LOWER_TERM)
 			);
 
-            console.log(results);
-
 			if (results.length) {
 				setDevs(results)
 			} else {
@@ -77,7 +75,6 @@ const Devs = () => {
 			<h3>{devs.length} Elite Developers available. 👋</h3>
 			<h1>Choose an Elite Developer from Uganda.</h1>
           <ErrorBoundary>
-
 			<Formik>
 				<Form className="mt-2 mb-4">
 					<Field
