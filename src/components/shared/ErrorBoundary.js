@@ -18,6 +18,13 @@ export default class ErrorBoundary extends Component {
     console.error(error);
   }
 
+  handleReset = () => {
+    this.setState({
+      hasError: false,
+      error: undefined,
+    });
+  }
+
   render() {
     if (this.state.hasError) {
       return (
@@ -25,6 +32,7 @@ export default class ErrorBoundary extends Component {
           <div className="flex flex-col space-y-2 items-center bg-red-300 max-w-2xl p-5 rounded-sm">
             <h1>something went wrong!</h1>
             <span>{JSON.stringify(this.state)}</span>
+            <button className="bg-blue-600 text-white font-bold p-2 rounded-md self-end" onClick={() => this.handleReset()}>Reset</button>
           </div>
         </div>
       );
