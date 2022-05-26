@@ -1,13 +1,8 @@
 import ErrorBoundary from "./components/shared/ErrorBoundary";
 import Routing from "./Routing";
 
-
 function App() {
-  return (
-    <ErrorBoundary>
-      <Routing />
-    </ErrorBoundary>
-  )
+  return <Routing />;
 }
 
 export default App;
