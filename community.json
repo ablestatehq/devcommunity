@@ -135,6 +135,14 @@
           "cv": "https://docs.google.com/document/d/1X6ndDUXPb0XSKhJoifOrwAV5kdjTeRsoYq9MQzQkE-8/edit",
           "techskills": "HTML, CSS, Javascript, python, ReactJS, Django, Figma, tailwindcss",
           "alumnus": "No"
+      },
+
+     {
+          "name": "Okoye Victor",
+          "gender": "Male",
+          "cv": "https://docs.google.com/document/d/1T2rlnPpD7jKAZTBCE0xVAIdiLx5Rl6Ns4w5c01twLfc/edit?usp=sharing",
+          "techskills": "HTML, CSS, Javascript, NodeJs, ExpressJs, MongoDB, Mongoose, Linux, Bootstrap",
+          "alumnus": "No"
       }
    
 
