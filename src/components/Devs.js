@@ -33,7 +33,7 @@ const Devs = () => {
 		setLoading(true);
 		const { value: TERM } = event.target;
     const LOWER_TERM = TERM.toLowerCase();
-		setSearchText(TERM);
+		setSearchText(LOWER_TERM);
     
 		if (LOWER_TERM?.length > 0 && LOWER_TERM !== "") {
 			const results = devs.filter(
