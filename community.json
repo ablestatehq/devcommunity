@@ -143,6 +143,13 @@
           "cv": "https://docs.google.com/document/d/1T2rlnPpD7jKAZTBCE0xVAIdiLx5Rl6Ns4w5c01twLfc/edit?usp=sharing",
           "techskills": "HTML, CSS, Javascript, NodeJs, ExpressJs, MongoDB, Mongoose, Linux, Bootstrap",
           "alumnus": "No"
+      },
+    {
+          "name": "Ahmed Ali",
+          "gender": "Male",
+          "cv": "https://www.linkedin.com/in/ahmed-abdelrahman-2020",
+          "techskills": "HTML, CSS, Javascript, C++, Python, MongoDB, Oracle, MS SQL, Mongoose, Linux, Bootstrap",
+          "alumnus": "No"
       }
    
 
