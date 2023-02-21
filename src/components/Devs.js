@@ -17,7 +17,7 @@ const Devs = () => {
     setLoading(true);
 
     const response = await fetch(
-      "https://theablestate.github.io/devcommunity/community.json"
+      "https://ablestatehq.github.io/devcommunity/community.json"
     );
 
     const data = await response.json();
